@@ -10,6 +10,8 @@ public class addWithoutArithmetic {
         b=sc.nextInt();
 
         System.out.println(getsum(a,b));
+
+
     }
 
     public static int getsum(int a, int b){
